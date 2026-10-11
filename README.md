@@ -21,3 +21,13 @@ Este repositório contém os trabalhos práticos desenvolvidos no âmbito da dis
 
 - **Diretório:** [TP1/](./TP1/)
 -  **Relatório:** [TP1/README.md](./TP1/README.md)
+
+### Trabalho Casa 2 (TP2)
+
+- **Diretório:** [TP2/](./TP2/)
+-  **Relatório:** [TP2/README.md](./TP2/README.md)
+
+### Trabalho Casa 3 (TP3)
+
+- **Diretório:** [TP3/](./TP3/)
+-  **Relatório:** [TP3/README.md](./TP3/README.md)
